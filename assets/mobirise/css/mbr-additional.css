@@ -2145,10 +2145,10 @@ body {
   }
 }
 .cid-qBOv0aCRrf {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #149dcc;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
+  padding-top: 120px;
+  padding-bottom: 105px;
+  background: #7f1933;
+  background: linear-gradient(0deg, #7f1933, #cc2952);
 }
 .cid-qBOv0aCRrf .video-block {
   margin: auto;
@@ -2157,4 +2157,9 @@ body {
   .cid-qBOv0aCRrf .video-block {
     width: 100% !important;
   }
+}
+.cid-qBOxvUABPl {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
