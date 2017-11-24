@@ -1725,7 +1725,7 @@ body {
   padding-bottom: 90px;
 }
 .cid-qBTgAX2O1y .mbr-section-subtitle {
-  color: #767676;
+  color: #f7ed4a;
 }
 .cid-qBTgAX2O1y .formoid {
   margin: auto;
@@ -1816,26 +1816,8 @@ body {
     margin: 0 0.5rem;
   }
 }
-.cid-qBO85KxnHC {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #138602;
-}
-.cid-qBO85KxnHC .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
-  color: #232323;
-}
-.cid-qBO85KxnHC .mbr-author-name {
-  font-weight: bold;
-  color: #232323;
-}
-.cid-qBO85KxnHC .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-qBO85KxnHC .mbr-author-desc {
-  color: #232323;
+.cid-qBTgAX2O1y H2 {
+  color: #efefef;
 }
 .cid-qBNIsqH17S {
   padding-top: 15px;
@@ -1863,6 +1845,32 @@ body {
 .cid-qBNIsqH17S .btn-social,
 .cid-qBNIsqH17S .mbr-section-title {
   color: #efefef;
+}
+.cid-qBO85KxnHC {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #7bec69;
+}
+.cid-qBO85KxnHC .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+}
+.cid-qBO85KxnHC .mbr-author-name {
+  font-weight: bold;
+  color: #232323;
+}
+.cid-qBO85KxnHC .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-qBO85KxnHC .mbr-author-desc {
+  color: #232323;
+}
+.cid-qBThtmzJUA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-qBNDU6ukon .navbar {
   padding: .5rem 0;
