@@ -65,7 +65,7 @@
               }
             },
             ".mbr-section-title": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#efefef"
             }
           },
