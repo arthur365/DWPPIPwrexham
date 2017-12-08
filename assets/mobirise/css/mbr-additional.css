@@ -1731,21 +1731,46 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qBNEb4kAjJ {
-  background-image: url("../../../assets/images/nhs-complaints-900x300.jpg");
+.cid-qDcN3B5gof {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/pip-tit-1320x296.png");
 }
-.cid-qBNEb4kAjJ .mbr-figure {
-  margin: 0 auto;
+.cid-qDcN3B5gof .mbr-section-subtitle {
+  color: #ffffff;
 }
-.cid-qBNEb4kAjJ H1 {
-  color: #138602;
+.cid-qDcNUNp1wJ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-qBNEb4kAjJ .mbr-text,
-.cid-qBNEb4kAjJ .mbr-section-btn {
-  color: #32af1f;
+.cid-qDcNUNp1wJ .mbr-text,
+.cid-qDcNUNp1wJ blockquote {
+  color: #767676;
 }
-.cid-qBNEb4kAjJ H3 {
-  color: #425773;
+.cid-qDcNUNp1wJ .mbr-text DIV {
+  color: #104907;
+}
+.cid-qBO85KxnHC {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+.cid-qBO85KxnHC .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+}
+.cid-qBO85KxnHC .mbr-author-name {
+  font-weight: bold;
+  color: #ffffff;
+}
+.cid-qBO85KxnHC .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-qBO85KxnHC .mbr-author-desc {
+  color: #ffffff;
 }
 .cid-qBNIsqH17S {
   padding-top: 15px;
@@ -1773,27 +1798,6 @@ body {
 .cid-qBNIsqH17S .btn-social,
 .cid-qBNIsqH17S .mbr-section-title {
   color: #efefef;
-}
-.cid-qBO85KxnHC {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #000000;
-}
-.cid-qBO85KxnHC .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
-  color: #232323;
-}
-.cid-qBO85KxnHC .mbr-author-name {
-  font-weight: bold;
-  color: #ffffff;
-}
-.cid-qBO85KxnHC .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-qBO85KxnHC .mbr-author-desc {
-  color: #ffffff;
 }
 .cid-qBThtmzJUA {
   padding-top: 30px;
