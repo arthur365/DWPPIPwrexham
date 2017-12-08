@@ -1742,19 +1742,22 @@ body {
 .cid-qDcNUNp1wJ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #0a3504;
 }
 .cid-qDcNUNp1wJ .mbr-text,
 .cid-qDcNUNp1wJ blockquote {
   color: #767676;
 }
 .cid-qDcNUNp1wJ .mbr-text DIV {
-  color: #104907;
+  color: #ffffff;
+}
+.cid-qDcNUNp1wJ .mbr-text B {
+  color: #ffffff;
 }
 .cid-qBO85KxnHC {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #000000;
+  background-color: #0e250b;
 }
 .cid-qBO85KxnHC .testimonial-text {
   font-style: italic;
@@ -1770,6 +1773,9 @@ body {
   word-break: break-word;
 }
 .cid-qBO85KxnHC .mbr-author-desc {
+  color: #ffffff;
+}
+.cid-qBO85KxnHC .testimonial-text B {
   color: #ffffff;
 }
 .cid-qBNIsqH17S {
