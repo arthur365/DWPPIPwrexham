@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#f4f4f4",
         "#1da30a",
         "#073101",
         "#0e250b",
         "#0a3504",
         "#104907",
-        "#297d1d",
-        "#000000"
+        "#297d1d"
       ]
     },
     "versionFirst": "4.2.3",
@@ -650,7 +650,7 @@
               "color": "#ffffff"
             },
             ".testimonial-text B": {
-              "color": "#ffffff"
+              "color": "#f4f4f4"
             }
           },
           "_name": "testimonials2",
