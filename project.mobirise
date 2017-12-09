@@ -489,7 +489,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Welcome to my website.</b></p><p>The Evil Systematic Abuse is what go's on in the care of DWP &amp; PIP &amp; ATOS &amp; CAPITA Wrexham North Wales U.K Gov.</p><p></p><div>Disabled people should not be the scapegoats for the financial mistakes of governments, should not be constantly told that there is no money to support them by millionaire politicians </div><div><br></div><div>We will not tolerate further erosion of our living conditions or our human rights, nor will we sit quietly while the U.K Govenment agents try to take our rights away and abuse children in their care behind the publics backs and cover there trails up by misplacing children's records who Govenment agents have abused over many years. \n<b>FULL STOP </b></div><div><br></div><div>Click here view all my Liverpool High Court Documents Ternhall Road Child Abuse Litigation 1993-2004<b style=\"font-size: 1rem;\">&nbsp;&nbsp;</b></div><div><br></div><div>TERNHALL ROAD CHILD ABUSE LITIGATION 1993-2004 WAS ABUSIVE COURT PROCESS RUN AGAINST VICTIMS WHO WERE ABUSED AS CHILDREN IN THE CARE OF U.K GOVERNMENT CHILDREN'S HOMES\n RUN BY LIVERPOOL CITY COUNCIL AND AGENTS</div><div><br></div><div>In 1993 The High court of Liverpool appointed Jackson and Canter Solicitors of Liverpool\n to the ternhall road Litigation.</div><div><b>Click or Tap to view all my Jackson and Canter Solicitors paper work that dues not add up from 1993- 2004 in my case at the High Court of Liverpool.</b></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>So you like to abuse victim of child abuse again. Welcome to my website.</b></p><p>The Evil Systematic Abuse is what go's on in the care of DWP &amp; PIP &amp; ATOS &amp; CAPITA Wrexham North Wales U.K Gov.</p><p></p><div>Disabled people should not be the scapegoats for the financial mistakes of governments, should not be constantly told that there is no money to support them by millionaire politicians </div><div><br></div><div>We will not tolerate further erosion of our living conditions or our human rights, nor will we sit quietly while the U.K Govenment agents try to take our rights away and abuse children in their care behind the publics backs and cover there trails up by misplacing children's records who Govenment agents have abused over many years. \n<b>FULL STOP </b></div><div><br></div><div>Click here view all my Liverpool High Court Documents Ternhall Road Child Abuse Litigation 1993-2004<b style=\"font-size: 1rem;\">&nbsp;&nbsp;</b></div><div><br></div><div>TERNHALL ROAD CHILD ABUSE LITIGATION 1993-2004 WAS ABUSIVE COURT PROCESS RUN AGAINST VICTIMS WHO WERE ABUSED AS CHILDREN IN THE CARE OF U.K GOVERNMENT CHILDREN'S HOMES\n RUN BY LIVERPOOL CITY COUNCIL AND AGENTS</div><div><br></div><div>In 1993 The High court of Liverpool appointed Jackson and Canter Solicitors of Liverpool\n to the ternhall road Litigation.</div><div><b>Click or Tap to view all my Jackson and Canter Solicitors paper work that dues not add up from 1993- 2004 in my case at the High Court of Liverpool.</b></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qDcNUNp1wJ",
           "_anchor": "content1-m",
           "_protectedParams": [],
@@ -653,7 +653,19 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dwp-3-1273x1754-800x1102.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "VIEW OUR VIDEO ON LINE MUST SEE YOU WOULD NOT BELEAVE THIS . THEN READ THERE REPLAY TO MY COMPLANT &nbsp; &nbsp;",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/stop-now-774x678.png",
+                "thumb": "@PROJECT_PATH@/assets/images/stop-now-774x678-774x678.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
                 "active": true
               }
             ]
