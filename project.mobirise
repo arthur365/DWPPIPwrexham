@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@"
   },
@@ -475,11 +475,44 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Welcome to my website were my wall’s now come down again trying to fight for my rights this is just more abuse since 2003-2018<br>To abuse victim of child abuse over and over again is morally wrong on your part but'' you need the cash and you come under the U.K Government official secret Act meaning. Read more here.  &nbsp;\n<span style=\"font-size: 1.5rem;\">&nbsp;</span></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "qDkIrx8klz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content9-r"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
             ".mbr-text DIV": {
-              "color": "#041d00"
+              "color": "#232323"
             },
             ".mbr-text B": {
               "color": "#041d00"
@@ -489,7 +522,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>So you like to abuse victim of child abuse again. Welcome to my website.</b></p><p>The Evil Systematic Abuse is what go's on in the care of DWP &amp; PIP &amp; ATOS &amp; CAPITA Wrexham North Wales U.K Gov.</p><p></p><div>Disabled people should not be the scapegoats for the financial mistakes of governments, should not be constantly told that there is no money to support them by millionaire politicians </div><div><br></div><div>We will not tolerate further erosion of our living conditions or our human rights, nor will we sit quietly while the U.K Govenment agents try to take our rights away and abuse children in their care behind the publics backs and cover there trails up by misplacing children's records who Govenment agents have abused over many years. \n<b>FULL STOP </b></div><div><br></div><div>Click here view all my Liverpool High Court Documents Ternhall Road Child Abuse Litigation 1993-2004<b style=\"font-size: 1rem;\">&nbsp;&nbsp;</b></div><div><br></div><div>TERNHALL ROAD CHILD ABUSE LITIGATION 1993-2004 WAS ABUSIVE COURT PROCESS RUN AGAINST VICTIMS WHO WERE ABUSED AS CHILDREN IN THE CARE OF U.K GOVERNMENT CHILDREN'S HOMES\n RUN BY LIVERPOOL CITY COUNCIL AND AGENTS</div><div><br></div><div>In 1993 The High court of Liverpool appointed Jackson and Canter Solicitors of Liverpool\n to the ternhall road Litigation.</div><div><b>Click or Tap to view all my Jackson and Canter Solicitors paper work that dues not add up from 1993- 2004 in my case at the High Court of Liverpool.</b></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Govenment Agents</b></p><p><span style=\"font-size: 1.5rem;\">The Evil Systematic Abuse is now what go's on in the care of DWP &amp; PIP &amp; ATOS &amp; CAPITA Wrexham North Wales U.K Gov.</span><br></p><p></p><div>Disabled people should not be the scapegoats for the financial mistakes of governments, should not be constantly told that there is no money to support them by millionaire politicians </div><div><br></div><div>We will not tolerate further erosion of our living conditions or our human rights, nor will we sit quietly while the U.K Govenment agents try to take our rights away becouse they abuse children in their care behind the publics backs and cover there trails up by misplacing children's records who Govenment agents have abused over many years. \n<b>FULL STOP </b></div><div><br></div><div>Click here view all my Liverpool High Court Documents Ternhall Road Child Abuse Litigation 1993-2004<b style=\"font-size: 1rem;\">&nbsp;&nbsp;</b></div><div><br></div><div>TERNHALL ROAD CHILD ABUSE LITIGATION 1993-2004 WAS ABUSIVE COURT PROCESS RUN AGAINST VICTIMS WHO WERE ABUSED AS CHILDREN IN THE CARE OF U.K GOVERNMENT CHILDREN'S HOMES\n RUN BY LIVERPOOL CITY COUNCIL AND AGENTS</div><div><br></div><div>In 1993 The High court of Liverpool appointed Jackson and Canter Solicitors of Liverpool\n to the ternhall road Litigation.</div><div>Click or Tap to view all my Jackson and Canter Solicitors paper work that dues not add up from 1993- 2004 in my case at the High Court of Liverpool. coming soon</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qDcNUNp1wJ",
           "_anchor": "content1-m",
           "_protectedParams": [],
@@ -684,7 +717,8 @@
             ".testimonial-text": {
               "font-style": "italic",
               "font-weight": "300",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             ".mbr-author-name": {
               "font-weight": "bold",
@@ -698,7 +732,7 @@
               "color": "#ffffff"
             },
             ".testimonial-text B": {
-              "color": "#f4f4f4"
+              "color": "#ffffff"
             }
           },
           "_name": "testimonials2",
