@@ -40,7 +40,8 @@
     "versionFirst": "4.2.3",
     "uniqCompNum": 28,
     "versionPublish": "4.5.2",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
