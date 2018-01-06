@@ -1762,77 +1762,42 @@ body {
     width: 100% !important;
   }
 }
-.cid-qFXp9IblEn {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/gw-1571x732.png");
+.cid-qFXXCWO8hH {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: #0e250b;
+  background: linear-gradient(45deg, #0e250b, #0a3504);
 }
-.cid-qFXp9IblEn h2 {
-  text-align: left;
+.cid-qFXXCWO8hH .image-block {
+  margin: auto;
 }
-.cid-qFXp9IblEn h4 {
-  text-align: left;
-  font-weight: 500;
+.cid-qFXXCWO8hH .mbr-figure {
+  margin: 0 auto;
 }
-.cid-qFXp9IblEn p {
+.cid-qFXXCWO8hH figcaption {
+  position: relative;
+}
+.cid-qFXXCWO8hH figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qFXXCWO8hH .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qFY1AvbcwY {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qFY1AvbcwY .mbr-text,
+.cid-qFY1AvbcwY blockquote {
   color: #767676;
-  text-align: left;
 }
-.cid-qFXp9IblEn .aside-content {
-  flex-basis: 100%;
-}
-.cid-qFXp9IblEn .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-qFXp9IblEn .media {
-  margin: initial;
-  align-items: center;
-}
-.cid-qFXp9IblEn .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-qFXp9IblEn .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-qFXp9IblEn .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-qFXp9IblEn .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-  .cid-qFXp9IblEn .media-container-row {
-    -webkit-flex-direction: row-reverse;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qFXp9IblEn .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-    padding-bottom: 0;
-    margin-bottom: 0;
-    padding-top: 1rem;
-    margin-top: 2rem;
-  }
-  .cid-qFXp9IblEn .media-container-row {
-    -webkit-flex-direction: column-reverse;
-  }
-}
-@media (max-width: 300px) {
-  .cid-qFXp9IblEn .card-img span {
-    font-size: 40px !important;
-  }
+.cid-qFY1AvbcwY .mbr-text P {
+  color: #000000;
 }
 .cid-qFXsFXvYv0 {
   padding-top: 0px;
