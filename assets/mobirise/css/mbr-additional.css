@@ -1766,7 +1766,7 @@ body {
   padding-top: 120px;
   padding-bottom: 120px;
   background: #0e250b;
-  background: linear-gradient(45deg, #0e250b, #0a3504);
+  background: linear-gradient(45deg, #0e250b, #200109);
 }
 .cid-qFXXCWO8hH .image-block {
   margin: auto;
@@ -1790,14 +1790,40 @@ body {
 .cid-qFY1AvbcwY {
   padding-top: 0px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #0e250b;
 }
 .cid-qFY1AvbcwY .mbr-text,
 .cid-qFY1AvbcwY blockquote {
   color: #767676;
 }
 .cid-qFY1AvbcwY .mbr-text P {
-  color: #000000;
+  color: #ffffff;
+}
+.cid-qFY6bMnWiY .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-qFY6bMnWiY .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-qFY6bMnWiY .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-qFY6bMnWiY .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-qFY6bMnWiY .google-map[data-state="loading"] [data-state-details] {
+  display: none;
 }
 .cid-qFXsFXvYv0 {
   padding-top: 0px;
@@ -1817,7 +1843,7 @@ body {
 .cid-qFXsFXvYv0 .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
-  background-color: #200109;
+  background-color: #0e250b;
 }
 .cid-qFXsFXvYv0 .card-img span {
   font-size: 100px;
@@ -1825,8 +1851,8 @@ body {
 }
 .cid-qFXsFXvYv0 .card-box {
   padding-bottom: 2rem;
-  background-color: #200109;
-  background: linear-gradient(#200109, transparent);
+  background-color: #0e250b;
+  background: linear-gradient(#0e250b, transparent);
 }
 .cid-qFXsFXvYv0 .card-box .card-title {
   margin: 0;
