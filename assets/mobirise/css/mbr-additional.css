@@ -3448,7 +3448,7 @@ body {
 .cid-qG912EcYvg {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #1e1002;
+  background-color: #7f1933;
 }
 .cid-qG912EcYvg .testimonial-text {
   font-style: italic;
@@ -3460,4 +3460,15 @@ body {
 .cid-qG912EcYvg .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
+}
+.cid-qG9JLZJJnY {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-qG9JLZJJnY .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qG9JLZJJnY H2 {
+  color: #efefef;
 }
