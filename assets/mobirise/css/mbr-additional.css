@@ -2239,11 +2239,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-qBOxvUABPl {
-  padding-top: 60px;
-  padding-bottom: 90px;
-  background-color: #000000;
-}
 .cid-qFYjne0c2y {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2305,6 +2300,11 @@ body {
   opacity: 0.6;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qBOxvUABPl {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #000000;
 }
 .cid-qBNDU6ukon .navbar {
   padding: .5rem 0;
