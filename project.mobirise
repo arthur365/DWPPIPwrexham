@@ -39,9 +39,11 @@
     },
     "versionFirst": "4.2.3",
     "uniqCompNum": 51,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.9.3",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "modified": "2018-01-13T11:58:07.099Z",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
