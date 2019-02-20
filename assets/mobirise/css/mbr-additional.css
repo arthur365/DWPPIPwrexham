@@ -1825,6 +1825,10 @@ body {
   margin-top: 1rem;
   margin-bottom: 0;
 }
+.cid-qFXsFXvYv0 .card-title,
+.cid-qFXsFXvYv0 .card-img {
+  color: #f9f295;
+}
 .cid-qBNIsqH17S {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1835,10 +1839,10 @@ body {
   line-height: 44px;
 }
 .cid-qBNIsqH17S .btn-social {
-  border-color: #297d1d;
+  border-color: #55b4d4;
 }
 .cid-qBNIsqH17S .btn-social:hover {
-  background: #297d1d;
+  background: #55b4d4;
 }
 .cid-qBNIsqH17S .btn-social:hover i.socicon {
   color: #ffffff !important;
